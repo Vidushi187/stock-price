@@ -14,4 +14,5 @@ The data contains records about the stock price of Tata Global Beverages Limited
 * Total Trade Quantity
 * Turnover (Lacs)
 
-
+**Libraries:**
+Numpy, Pandas, matplotlib,keras,sklearn
